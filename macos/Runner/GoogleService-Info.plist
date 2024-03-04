@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDN3ZT2A_wF3rGbefDBzCGZt8vU_GXbosw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>25171190848</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.hotelBooking.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>hotelbooking-7d6fb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hotelbooking-7d6fb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:25171190848:ios:21f8558ce0a493f12c2ba5</string>
+</dict>
+</plist>
